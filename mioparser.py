@@ -25,6 +25,7 @@
 # jerome.boisvert-chouinard@mail.mcgill.ca
 #
 ##########
+
 import sys
 import itertools
 from pprint import pprint
